@@ -1,4 +1,4 @@
-CarID,Brand,Model,Year,EngineType,TransmissionType,FuelType,Mileage,Color,Accidents,OwnerGender,Price (PLN)
+CarID,Brand,Model,Year,EngineType,TransmissionType,FuelType,Mileage,Color,Accidents,OwnerGender,PricePLN
 1,Toyota,Camry,1998,Petrol,Manual,Gas,241401,Blue,2,Male,12630
 2,Honda,Accord,2005,Diesel,Automatic,Diesel,193440,Silver,0,Female,25260
 3,Ford,Focus,2012,Petrol,Automatic,Gas,128840,Red,1,Male,33680
